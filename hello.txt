@@ -4,5 +4,8 @@ new line added
 bug fixing
 new bug fixing uing bug1
 add new line from master
+change from bug 2
+change to fix bug
+change to update file in master
 
 
