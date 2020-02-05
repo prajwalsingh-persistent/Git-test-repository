@@ -14,3 +14,4 @@ add new bug line
 
 add new line from bug2
 
+new line added after linking with the remote repository
